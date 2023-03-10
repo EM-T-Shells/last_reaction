@@ -1,8 +1,7 @@
-// Contact.js
 import React, { useState } from "react";
-import Form from "./Form";
 import Header from "./Header";
 import Footer from "./Footer";
+import { Container, Row, Col } from "react-bootstrap";
 
 function Contact() {
   return (
@@ -19,7 +18,7 @@ function Contact() {
               <FaEnvelope /> oneAiOpen.com
             </p>
           </div>
-          
+
         </Container>
       </div>
       <Footer />
