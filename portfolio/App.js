@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import Home from "./components/Home";
 import About from "./pages/About";
-import Portfolio from "./pages/Portfolio";
+import Portfolio from "./pages/Project";
 import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
 
@@ -24,6 +24,7 @@ function App() {
 }
 
 export default App;
+
 
 // const App = () => {
 //   return (
@@ -57,3 +58,5 @@ export default App;
 //     </div>
 //   );
 // };
+
+
