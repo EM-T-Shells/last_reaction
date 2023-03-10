@@ -15,29 +15,21 @@ function Footer() {
           alignItems: "center",
         }}>
         <a
-          href="https://github.com/itsjennyb"
+          href="https://github.com/EM-T-Shells"
           target="_blank"
           rel="noopener noreferrer"
           style={{ margin: "0 10px" }}>
-          <FaGithub size={30} color="white" />
+          <FaGithub size={30} color="cyan" />
         </a>
         <a
-          href="https://www.linkedin.com/in/jblac/"
+          href="https://www.linkedin.com/in/emre-taskale-m-d-982093244/"
           target="_blank"
           rel="noopener noreferrer"
           style={{ margin: "0 10px" }}>
-          <FaLinkedin size={30} color="white" />
-        </a>
-        <a
-          href="https://stackoverflow.com/users/19847934/itsjennyb"
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{ margin: "0 10px" }}>
-          <FaStackOverflow size={30} color="white" />
+          <FaLinkedin size={30} color="green" />
         </a>
       </div>
-      <p style={{ marginTop: "5px" }}>
-        G.E. Taskale &copy; 2023</p>
+      <p style={{ marginTop: "5px" }}>G.E. Taskale &copy; 2023</p>
     </Container>
   );
 }
