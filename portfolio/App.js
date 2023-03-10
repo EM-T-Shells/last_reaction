@@ -9,7 +9,6 @@ import Portfolio from "./pages/Portfolio";
 import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
 
-
 function App() {
   return (
     <Router>
@@ -25,7 +24,6 @@ function App() {
 }
 
 export default App;
-
 
 // const App = () => {
 //   return (
